@@ -7,7 +7,7 @@ Utilizando firebase para criação e autenticação de conta para criar artigos 
 
 <h2 align="center"> 📷 Screenshot do projeto: </h2>
 <p align="center">
-<img width="700" height="600" src="/src/img/menu.png">
+<img width="1020" height="720" src="/src/img/menu.png">
 </p>
 
 _________
